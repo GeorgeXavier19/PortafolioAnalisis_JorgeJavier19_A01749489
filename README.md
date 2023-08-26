@@ -9,6 +9,8 @@ retro: Carpeta con la información sobre la versión preliminar de cada entregab
 Archivos para revisión
 A continuación, se presenta una lista de los archivos que deben ser revisados para calificar cada subcompetencia:
 
+
+CARPETA RETRO
 Módulo 1: Estadísticas
 SMA0101A
 Evidencia 01-Statistics_portfolio.ipynb: Momento de Retroalimentación: Módulo 1 Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos (Portafolio Análisis)
@@ -16,7 +18,8 @@ DataSet-precios_autos: Base de datos utilizada en esta actividad.
 
 Módulo 2: Aprendizaje Automático
 
-
+CARPETA FINAL
 Módulo 1: Estadísticas
 SMA0101A
+Módulo 2: Aprendizaje Automático
 SMA0401A
