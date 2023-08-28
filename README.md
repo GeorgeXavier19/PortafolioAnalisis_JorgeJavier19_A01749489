@@ -1,8 +1,8 @@
 Estructura de este repositorio
 La carpeta raíz de este repositorio contiene los siguientes archivos y carpetas:
 
-Archivos  
-README.md: Este archivo  
+Archivos  //
+README.md: Este archivo  //
 
 Carpetas  
 final: Carpeta con la información sobre los entregables finales, que incluyen los cambios solicitados por los revisores.  
