@@ -12,14 +12,17 @@ Archivos para revisión
 A continuación, se presenta una lista de los archivos que deben ser revisados para calificar cada subcompetencia:
 
 CARPETA RETRO  
-Módulo 1: Estadística 
-SMA0101A  
+
+Módulo 1: Estadística   
+SMA0101A    
+
 Evidencia 01-Statistics_portfolio.ipynb: Momento de Retroalimentación: Módulo 1 Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos,  entrega del dia 25 de Agosto del 2023.
 DataSet-precios_autos: Base de datos utilizada en esta actividad.  
 
 Módulo 2: Machine Learning
 SMA0401A 
-Evidencia 01-AI_Análisis_del_contexto_y_la_normatividad.pdf 
+
+Evidencia 01-AI_Análisis_del_contexto_y_la_normatividad.pdf, entrega del dia 28 de Agosto del 2023.
 
 CARPETA FINAL  
 Módulo 1: Estadística  
