@@ -1,29 +1,20 @@
-Estructura del Repositorio de Analisis
-La carpeta raíz de este repositorio contiene los siguientes archivos y carpetas:
+# Estructura del Repositorio de Análisis
 
-Archivos  
-README.md: Este archivo  
+## Carpeta Raíz
+- **README.md**: Descripción general del contenido y la estructura del repositorio.
 
-Carpetas  
-final: Carpeta con la información sobre los entregables finales, que incluyen los cambios solicitados por los revisores.  
-retro: Carpeta con la información sobre la versión preliminar de cada entregable, que se proporcionan para solicitar retroalimentación.  
+## Carpeta "retro"
+- **Módulo 1: Estadística (SMA0101A)**
+  - **Evidencia 01-Statistics_portfolio.ipynb**: Momento de Retroalimentación: Módulo 1 Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos, entrega del día 25 de Agosto del 2023.
+  - **DataSet-precios_autos**: Base de datos utilizada en esta actividad.
+  
+- **Módulo 2: Machine Learning (SMA0401A)**
+  - **Evidencia 01-AI_Análisis_del_contexto_y_la_normatividad.pdf**: Entrega del día 28 de Agosto del 2023.
+  - **Evidencia 02-Módulo_2_Análisis_y_Reporte_sobre_el_desempeño_del_modelo_.pdf**: Entrega del día 5 de Septiembre del 2023.
 
-Archivos para revisión  
-A continuación, se presenta una lista de los archivos que deben ser revisados para calificar cada subcompetencia:
+## Carpeta "final"
+- **Módulo 1: Estadística (SMA0101A)**
+- **Módulo 2: Machine Learning (SMA0401A)**
 
-CARPETA RETRO  
-Módulo 1: Estadística 
-SMA0101A  
-Evidencia 01-Statistics_portfolio.ipynb: Momento de Retroalimentación: Módulo 1 Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos,  entrega del dia 25 de Agosto del 2023.
-DataSet-precios_autos: Base de datos utilizada en esta actividad.  
-SMA0101A  
 
-Módulo 2: Machine Learning
-SMA0401A 
-
-CARPETA FINAL  
-Módulo 1: Estadística  
-SMA0101A  
-Módulo 2: Machine Learning  
-SMA0401A  
 
