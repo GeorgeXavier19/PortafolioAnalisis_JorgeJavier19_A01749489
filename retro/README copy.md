@@ -1,31 +1,31 @@
-# Proyecto de Aprendizaje de Machine Learning con k-Nearest Neighbors (k-NN)
+# Modelo KNeighborsClassifier para Clasificación de Dígitos Escritos a Mano
 
-## Descripción
+## Descripción del Modelo
+Este repositorio contiene una implementación del modelo KNeighborsClassifier para la clasificación de dígitos escritos a mano. El modelo utiliza el conjunto de datos "digits" proporcionado por la librería Scikit-learn. El objetivo es predecir la etiqueta numérica correspondiente a imágenes de dígitos escritos a mano.
 
-Este proyecto tiene como objetivo implementar y comprender el modelo de Machine Learning k-Nearest Neighbors (k-NN). El proyecto forma parte de una competencia de aprendizaje en la que se busca aplicar técnicas de análisis y clasificación en un conjunto de datos específico utilizando el algoritmo k-NN.
+## Descripción del Dataset
+El conjunto de datos utilizado en este proyecto es el "digits" dataset proporcionado por la librería Scikit-learn. Este conjunto de datos contiene imágenes en escala de grises de dígitos escritos a mano, donde cada imagen está asociada con una etiqueta numérica que representa el dígito que se muestra en la imagen. El dataset consta de 1,797 imágenes de 8x8 píxeles, abarcando dígitos del 0 al 9.
 
-## Criterios de Evaluación
+### Información del Dataset
+- Nombre: digits dataset
+- URL: [digits dataset en Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)
+- Cantidad de Imágenes: 1,797
+- Tamaño de las Imágenes: 8x8 píxeles
+- Etiquetas: Dígitos del 0 al 9
 
-### Descripción del Modelo de ML
+## Uso del Código
+El código en este repositorio implementa el modelo KNeighborsClassifier para entrenar y evaluar la capacidad del modelo para clasificar dígitos escritos a mano. El código carga automáticamente el conjunto de datos "digits" de Scikit-learn y realiza la separación en conjuntos de entrenamiento y prueba. Luego, se entrena el modelo y se evalúa su desempeño utilizando métricas como la precisión, el recall y el F1-score.
+
+## Resultados y Conclusiones
+El análisis del desempeño del modelo KNeighborsClassifier en el conjunto de datos "digits" revela resultados prometedores. Las métricas de evaluación, como la precisión y el F1-score, demuestran un rendimiento satisfactorio en la clasificación de dígitos escritos a mano. El análisis también incluye diagnósticos de sesgo, varianza y nivel de ajuste del modelo, lo que proporciona una comprensión completa de su adaptación y capacidad de generalización.
+
+## Contribuciones y Mejoras Futuras
+Este proyecto es un punto de partida para la implementación y evaluación de modelos de clasificación en el contexto de dígitos escritos a mano. Las mejoras futuras podrían incluir la optimización de parámetros del modelo, la exploración de diferentes algoritmos de clasificación y la visualización detallada de resultados.
+
+## Autor
+[Jorge Javier Sosa Briseño]
 
 
-### Descripción del Dataset
-
-
-
-## Modelo de Machine Learning: k-Nearest Neighbors (k-NN)
-
-El modelo k-NN es un algoritmo de aprendizaje supervisado utilizado para clasificación y regresión. En el caso de la clasificación, asigna una etiqueta a una instancia desconocida basándose en las etiquetas de sus k vecinos más cercanos en el espacio de características. El valor de k determina la cantidad de vecinos considerados en la decisión.
-
-## Conjunto de Datos Utilizado
-
-Nombre: 
-
-
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 
 
