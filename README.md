@@ -20,6 +20,7 @@
   - **Explorando_bases**
   - **Transformaciones**
   - **Reporte_Final**
+  - **StatisticsFinal_portfolio_.ipynb**
 - **Módulo 2: Machine Learning (SMA0401A)**
   - **Evidencia 01: Final-AI_Análisis_del_contexto_y_la_normatividad.pdf**: Entrega Final
   - **README_Analisis_del_Contexto.md**: Descripción general del contenido y la estructura del archivo.
