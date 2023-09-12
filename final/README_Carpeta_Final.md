@@ -1,6 +1,7 @@
 # Estructura del Repositorio de Análisis de la Carpeta Final
 
-
+## Carpeta Final
+- **README.md**: Descripción general del contenido y la carpeta final.
 ## Carpeta "final"
 - **Módulo 1: Estadística (SMA0101A)**
   - **Algunas_Distribuaciones**
