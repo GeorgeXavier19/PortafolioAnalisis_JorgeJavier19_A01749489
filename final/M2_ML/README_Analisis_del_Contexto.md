@@ -1,4 +1,4 @@
-# Modelo KNeighborsClassifier para Clasificación de Dígitos Escritos a Mano
+# Análisis y Reporte sobre el desempeño_del_modelo
 
 ## Descripción del Modelo
 Este repositorio contiene una implementación del modelo KNeighborsClassifier para la clasificación de dígitos escritos a mano. El modelo utiliza el conjunto de datos "digits" proporcionado por la librería Scikit-learn. El objetivo es predecir la etiqueta numérica correspondiente a imágenes de dígitos escritos a mano.
@@ -21,6 +21,8 @@ El análisis del desempeño del modelo KNeighborsClassifier en el conjunto de da
 
 ## Contribuciones y Mejoras Futuras
 Este proyecto es un punto de partida para la implementación y evaluación de modelos de clasificación en el contexto de dígitos escritos a mano. Las mejoras futuras podrían incluir la optimización de parámetros del modelo, la exploración de diferentes algoritmos de clasificación y la visualización detallada de resultados.
+
+## Contribuciones y Mejoras Futuras
 
 ## Autor
 [Jorge Javier Sosa Briseño]
